@@ -1,6 +1,6 @@
 # Sales Insights Data Analytics Project
 
-![Power BI Dashboard Screenshot](dashboard_screenshot.png) <!-- Add your actual screenshot file name -->
+![Power BI Dashboard Screenshot](dashboard.png) <!-- Add your actual screenshot file name -->
 
 ## Project Overview
 This Power BI project analyzes sales data from a MySQL database, providing actionable insights through interactive visualizations. The dashboard tracks key performance indicators (KPIs), revenue trends, and sales patterns across different markets.
